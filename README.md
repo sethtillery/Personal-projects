@@ -23,6 +23,6 @@ Now I currently focus on developing programs for C# and C++ and furthering my ga
 # Contact Me
 
 | Contacts |       |
-| :---|    | :---| |
+| :---     | :---  |
 | Email:   |       |
 |Linkedin: |       |
