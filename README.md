@@ -1,4 +1,4 @@
-#Seth Tillery - Personal-projects
+# Seth Tillery - Personal-projects
 
 Index
 
