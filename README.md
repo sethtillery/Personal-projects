@@ -24,5 +24,5 @@ Now I currently focus on developing programs for C# and C++ and furthering my ga
 
 | Contacts |       |
 | :---     | :---  |
-| Email:   |       |
-|Linkedin: |       |
+| Email:   | [sethtillery71@gmail.com] (sethtillery71@gmail.com) |
+|Linkedin: | [https://www.linkedin.com/in/seth-tillery] (https://www.linkedin.com/in/seth-tillery)      |
